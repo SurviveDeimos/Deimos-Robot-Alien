@@ -2,6 +2,7 @@
 
 This is the source code from the following mod https://www.curseforge.com/ark-survival-ascended/mods/deimos-cosmetics-alien-drone
 
+Disclaimer:: I'm not a professional modder/modeller/rigger. These files are just meant to be as a basic template for character cosmetics (and mostly the way I figured it out etc), and gives an example how the Deimos Alien/Rat/Robot were created. Also this was a quick project, a lot of things could have been done better.
 
 ## How to Download and Install this project in to your own mod
 
