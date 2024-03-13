@@ -26,6 +26,7 @@ Your structure should look like d:\Epic\ARKDevkit\Projects\ShooterGame\Mods\MyNe
 - When you are done with the PrimalItemSkin_CharacterSkin_... You will need to add them to your ModDataAsset_.... asset which is in the root folder. This shouldn't need much info. The Apply to classes is always PrimalItemSkin_PlayerCostume_Custom and the Mod Skin Item is the PrimalItemSkin_CharacterSkin_... you created.
 - The ModDataAsset_.. needs to added to your PrimalGameData_BP_... (Just search for ModData)
 - And of course you need to assign the PrimalGameData_BP_... to your level
+- When you are done, please check all references mostly on the PrimalItemSkin_CharacterSkin_ to see if you don't have references to other copied mods etc. 
 
  ## Materials
 
