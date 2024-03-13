@@ -33,6 +33,11 @@ Your structure should look like d:\Epic\ARKDevkit\Projects\ShooterGame\Mods\MyNe
 
  The base Material is kind of mess (too many options) but it gives an example how to easily change colors on your texture. And since the color variable names are called Color0 and Color1 this also works on paintable items/color regions. 
 
+ ## 3D Model used (License) 
+ 
+3D Model: Created by NatalieDesign (Creative Commons Attribution) and can be downloaded from the following url: https://sketchfab.com/3d-models/alien-suit-63b20235d5134bf1877168cb2e232a0c
+If you reuse this model don't forget to add the CC Attribution.
+
  ## Notes
 
 If you want to check what Deimos is up to check our Discord at.
