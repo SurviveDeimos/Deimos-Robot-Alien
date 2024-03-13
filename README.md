@@ -1,11 +1,11 @@
-"# Deimos-Robot-Alien" 
+# Deimos Alien Drone
 
 This is the source code from the following mod https://www.curseforge.com/ark-survival-ascended/mods/deimos-cosmetics-alien-drone
 
 
-## How to Download and install this project in to your own mod
+## How to Download and Install this project in to your own mod
 
-You will need to copy the contents of the Content folder in to your own created mod folder. Download this project as zip file, extract all files, and just copy all the files and directories in Content folder to your mod folder. 
+You will need to copy the contents of the 'Content' folder in to your own created mod folder. Download this project as zip file, extract all files, and just copy all the files and directories in Content folder to your mod folder. 
 
 For example copy everything in the Content/*.* to your d:\Epic\ARKDevkit\Projects\ShooterGame\Mods\MyNewMod 
 
