@@ -32,6 +32,7 @@ Your structure should look like d:\Epic\ARKDevkit\Projects\ShooterGame\Mods\MyNe
  ## Materials
 
  The base Material is kind of mess (too many options) but it gives an example how to easily change colors on your texture. And since the color variable names are called Color0 and Color1 this also works on paintable items/color regions. 
+The occlusion/metal/specualar should have been a combined map to save at least 40MB on textures. 
 
  ## 3D Model used (License) 
  
